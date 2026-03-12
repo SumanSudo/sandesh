@@ -5,7 +5,7 @@ const projects = [
     shortdescription:
       "A full-featured Learning Management System similar to Udemy with course creation, CMS for managing content, role-based access control (Admin, Instructor, Students), and secure payment integration for purchasing courses.",
 
-    image: "/lms.png",
+    image: "/lms2.png",
     tags: ["Node.js", "React", "PostgreSQL", "Express", "Payment Integration"],
     tools: ["Node.js", "React", "Express", "PostgreSQL"],
     link: "#",
